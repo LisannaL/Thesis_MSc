@@ -1,4 +1,8 @@
+# Understanding Public and Leaders’ Opinion about Russo-Ukrainian War through Social Media Platforms: An Estonian Case Study
+
 A repository containing the notebooks for the Data Science MSc thesis "Understanding Public and Leaders’ Opinion about Russo-Ukrainian War through Social Media Platforms: An Estonian Case Study".
+
+![Lehes_Visual_Abstract_eng](https://github.com/LisannaL/Thesis_MSc/assets/91329321/efa3efbe-c746-494c-bcc7-5153fd044d32)
 
 # Abstract
 
